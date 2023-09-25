@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"edu.eci.ieti.controller"})
+@ComponentScan(basePackages = {"co.edu.escuelaing.ieti.controller"})
 public class HelloApplication {
 
     public static void main(String[] args) {
